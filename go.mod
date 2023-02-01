@@ -20,7 +20,7 @@ require (
 	github.com/marten-seemann/webtransport-go v0.2.0
 	github.com/mattn/go-isatty v0.0.16
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/nats-io/nats.go v1.19.0
+	github.com/nats-io/nats.go v1.23.0
 	github.com/prometheus/client_golang v1.13.0
 	github.com/rakutentech/jwk-go v1.0.1
 	github.com/rs/zerolog v1.28.0
@@ -28,7 +28,7 @@ require (
 	github.com/stretchr/testify v1.8.1
 	github.com/vmihailenco/msgpack/v5 v5.3.5
 	go.uber.org/automaxprocs v1.5.1
-	golang.org/x/crypto v0.1.0
+	golang.org/x/crypto v0.5.0
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	google.golang.org/grpc v1.50.1
 	google.golang.org/protobuf v1.28.1
@@ -74,9 +74,9 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	golang.org/x/exp v0.0.0-20221031165847-c99f073a8326 // indirect
 	golang.org/x/mod v0.6.0 // indirect
-	golang.org/x/net v0.1.0 // indirect
-	golang.org/x/sys v0.1.0 // indirect
-	golang.org/x/text v0.4.0 // indirect
+	golang.org/x/net v0.5.0 // indirect
+	golang.org/x/sys v0.4.0 // indirect
+	golang.org/x/text v0.6.0 // indirect
 	golang.org/x/tools v0.2.0 // indirect
 	google.golang.org/genproto v0.0.0-20221027153422-115e99e71e1c // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
